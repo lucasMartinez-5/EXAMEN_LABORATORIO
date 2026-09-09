@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ocho Puzzle</string>
+    <string name="appTitle">Ocho Puzzle</string>
+    <string name="Mensaje">Mensaje</string>
+    <string name="Restart">Reiniciar Juego</string>
+    <string name="Disorder">Desordenar</string>
+    <string name="Verify">Verificar</string>
+</resources>
